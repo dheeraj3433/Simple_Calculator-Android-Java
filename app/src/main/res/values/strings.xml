@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="input_hint_1">Input 1</string>
+    <string name="input_hint_2">Input 2</string>
+    <string name="add_button">Add</string>
+    <string name="subtract_button">Subtract</string>
+    <string name="multiply_button">Multiply</string>
+    <string name="division_button">Division</string>
+    <string name="clear_button">Clear</string>
+</resources>
